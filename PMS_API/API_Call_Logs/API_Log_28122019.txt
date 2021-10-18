@@ -1,0 +1,138 @@
+Time : 28/12/2019 11:47:39 PM
+Json Request 
+{"ServiceID":"003","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:47:39 PM
+Json Response :
+System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at PMS_API.Functions.StandrdFunctions.GetConvertDatatableObject(DataTable datatable) in E:\My Projects\PMS_API\PMS_API\Functions\StandrdFunctions.cs:line 207
+   at PMS_API.Controllers.PMSAPIController.GetExecuteAsync(RequsetObject obj) in E:\My Projects\PMS_API\PMS_API\Controllers\PMSAPIController.cs:line 109
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:47:39 PM
+Json Response :
+{"ErrorNo":50,"ErrorMassege":" حدث خطأ  حاول مرة أخرى","Response1":null,"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 12/28/2019 11:50:31 PM
+Json Request 
+{"ServiceID":"003","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 12/28/2019 11:50:48 PM
+Json Response :
+System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at PMS_API.Functions.StandrdFunctions.GetConvertDatatableObject(DataTable datatable) in E:\My Projects\PMS_API\PMS_API\Functions\StandrdFunctions.cs:line 207
+   at PMS_API.Controllers.PMSAPIController.GetExecuteAsync(RequsetObject obj) in E:\My Projects\PMS_API\PMS_API\Controllers\PMSAPIController.cs:line 109
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 12/28/2019 11:50:48 PM
+Json Response :
+{"ErrorNo":50,"ErrorMassege":" حدث خطأ  حاول مرة أخرى","Response1":null,"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 12/28/2019 11:53:25 PM
+Json Request 
+{"ServiceID":"003","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 12/28/2019 11:53:25 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":{"Field1":null,"Field2":null,"Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null},"Response2":{"Field1":null,"Field2":null,"Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null},"Response3":{"Field1":"4","Field2":"مهندس مشرف محمد علي","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 12/28/2019 11:55:13 PM
+Json Request 
+{"ServiceID":"003","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 12/28/2019 11:55:13 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":null,"Response2":null,"Response3":{"Field1":"4","Field2":"مهندس مشرف محمد علي","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:55:39 PM
+Json Request 
+{"ServiceID":"003","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:55:39 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":null,"Response2":null,"Response3":{"Field1":"4","Field2":"مهندس مشرف محمد علي","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:55:42 PM
+Json Request 
+{"ServiceID":"000","RequestInput1":"admin_sys","RequestInput2":"123456","RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:55:42 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":{"Field1":"2","Field2":"admin_sys","Field3":"مدير النظام","Field4":"28/12/2019 11:34:00 PM","Field5":"1","Field6":"6","Field7":"بلديه محافظه بيشه","Field8":"","Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null},"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:55:51 PM
+Json Request 
+{"ServiceID":"001","RequestInput1":"1970","RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:55:51 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":{"Field1":"2","Field2":"1970","Field3":"1970","Field4":"مشروع مبنى إمارة عسير","Field5":"بلديه محافظه بيشه","Field6":"2019-12-26","Field7":"2019-12-31","Field8":"مشروع مبنى إمارة عسير","Field9":"55555","Field10":"مهندس محمد","Field11":"مؤسسة العمران الخالد للمقاولات","Field12":"علي بن عثمان","Field13":"200000","Field14":"مشروع مبنى إمارة عسير","Field15":"6","Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null},"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:56:40 PM
+Json Request 
+{"ServiceID":"003","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:56:40 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":null,"Response2":null,"Response3":{"Field1":"4","Field2":"مهندس مشرف محمد علي","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:57:31 PM
+Json Request 
+{"ServiceID":"003","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:57:31 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":null,"Response2":null,"Response3":{"Field1":"4","Field2":"مهندس مشرف محمد علي","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:59:06 PM
+Json Request 
+{"ServiceID":"003","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:59:06 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":null,"Response2":null,"Response3":{"Field1":"4","Field2":"مهندس مشرف محمد علي","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null}}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:59:31 PM
+Json Request 
+{"ServiceID":"000","RequestInput1":"admin_sys","RequestInput2":"123456","RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:59:31 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":{"Field1":"2","Field2":"admin_sys","Field3":"مدير النظام","Field4":"28/12/2019 11:55:00 PM","Field5":"1","Field6":"6","Field7":"بلديه محافظه بيشه","Field8":"","Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null},"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:59:40 PM
+Json Request 
+{"ServiceID":"001","RequestInput1":"1970","RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 28/12/2019 11:59:40 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":{"Field1":"2","Field2":"1970","Field3":"1970","Field4":"مشروع مبنى إمارة عسير","Field5":"بلديه محافظه بيشه","Field6":"2019-12-26","Field7":"2019-12-31","Field8":"مشروع مبنى إمارة عسير","Field9":"55555","Field10":"مهندس محمد","Field11":"مؤسسة العمران الخالد للمقاولات","Field12":"علي بن عثمان","Field13":"200000","Field14":"مشروع مبنى إمارة عسير","Field15":"6","Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null},"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+

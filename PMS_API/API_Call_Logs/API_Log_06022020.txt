@@ -1,0 +1,200 @@
+Time : 2/6/2020 10:49:29 AM
+Json Request 
+{"ServiceID":"003","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 10:49:29 AM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":[{"Field1":"1","Field2":"سبب","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"2","Field2":"سبب 2","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}],"Response2":[{"Field1":"1","Field2":"الدورية ","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"2","Field2":"المفاجئة ","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"3","Field2":"الامن والسلامة","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}],"Response3":[{"Field1":"69","Field2":"د مصطفى","Field3":"4","Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"70","Field2":"د اسامة","Field3":"2","Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}]}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 10:49:54 AM
+Json Request 
+{"ServiceID":"003","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 10:49:54 AM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":[{"Field1":"1","Field2":"سبب","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"2","Field2":"سبب 2","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}],"Response2":[{"Field1":"1","Field2":"الدورية ","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"2","Field2":"المفاجئة ","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"3","Field2":"الامن والسلامة","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}],"Response3":[{"Field1":"69","Field2":"د مصطفى","Field3":"4","Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"70","Field2":"د اسامة","Field3":"2","Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}]}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 10:50:02 AM
+Json Request 
+{"ServiceID":"003","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 10:50:02 AM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":[{"Field1":"1","Field2":"سبب","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"2","Field2":"سبب 2","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}],"Response2":[{"Field1":"1","Field2":"الدورية ","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"2","Field2":"المفاجئة ","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"3","Field2":"الامن والسلامة","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}],"Response3":[{"Field1":"69","Field2":"د مصطفى","Field3":"4","Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"70","Field2":"د اسامة","Field3":"2","Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}]}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 2:59:09 PM
+Json Request 
+{"ServiceID":"003","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 2:59:09 PM
+Json Response :
+System.IO.IOException: The process cannot access the file 'E:\MGProject\PMMS API\PMS_API 30-12-2019\PMS_API\PMS_API\API_Call_Logs\API_Log_06022020.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   at PMS_API.Controllers.PMSAPIController.InsertLog(String Message, Int32 LogType) in e:\MGProject\PMMS API\PMS_API 30-12-2019\PMS_API\PMS_API\Controllers\PMSAPIController.cs:line 380
+   at PMS_API.Controllers.PMSAPIController.GetExecuteAsync(RequsetObject obj) in e:\MGProject\PMMS API\PMS_API 30-12-2019\PMS_API\PMS_API\Controllers\PMSAPIController.cs:line 32
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 2:59:09 PM
+Json Response :
+{"ErrorNo":50,"ErrorMassege":" حدث خطأ  حاول مرة أخرى","Response1":null,"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 2:59:10 PM
+Json Request 
+{"ServiceID":"000","RequestInput1":"admin_sys","RequestInput2":"123456","RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 2:59:10 PM
+Json Response :
+{"ErrorNo":-1,"ErrorMassege":"اسم المستخدم او كلمة المرور خطأ","Response1":null,"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 2:59:14 PM
+Json Request 
+{"ServiceID":"100","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 2:59:14 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":[{"MenuID":1,"MenuTitle":"إستلام موقع","MenuImage":"","GroupID":4,"IsActive":true},{"MenuID":2,"MenuTitle":"تسجيل الزيارات للمشاريع","MenuImage":"","GroupID":4,"IsActive":true},{"MenuID":3,"MenuTitle":"زيارات الإستلام البنود","MenuImage":"","GroupID":4,"IsActive":true},{"MenuID":11,"MenuTitle":"مشاريع الامانة","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":11,"MenuTitle":"مشاريع الامانة","MenuImage":"","GroupID":11,"IsActive":true},{"MenuID":12,"MenuTitle":"المشاريع المستلمة","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":12,"MenuTitle":"المشاريع المستلمة","MenuImage":"","GroupID":11,"IsActive":true},{"MenuID":13,"MenuTitle":"المشاريع المتعثرة","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":13,"MenuTitle":"المشاريع المتعثرة","MenuImage":"","GroupID":11,"IsActive":true},{"MenuID":14,"MenuTitle":"تقرير الزيارات","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":14,"MenuTitle":"تقرير الزيارات","MenuImage":"","GroupID":11,"IsActive":true},{"MenuID":20,"MenuTitle":"عن التطبيق","MenuImage":"","GroupID":4,"IsActive":true},{"MenuID":20,"MenuTitle":"عن التطبيق","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":20,"MenuTitle":"عن التطبيق","MenuImage":"","GroupID":11,"IsActive":true},{"MenuID":21,"MenuTitle":"تسجيل خروج","MenuImage":"","GroupID":4,"IsActive":true},{"MenuID":21,"MenuTitle":"تسجيل خروج","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":21,"MenuTitle":"تسجيل خروج","MenuImage":"","GroupID":11,"IsActive":true}],"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 2:59:15 PM
+Json Request 
+{"ServiceID":"000","RequestInput1":"admin_sys","RequestInput2":"123456","RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 2:59:15 PM
+Json Response :
+{"ErrorNo":-1,"ErrorMassege":"اسم المستخدم او كلمة المرور خطأ","Response1":null,"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 3:47:59 PM
+Json Request 
+{"ServiceID":"003","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 3:47:59 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":[{"Field1":"1","Field2":"سبب","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"2","Field2":"سبب 2","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}],"Response2":[{"Field1":"1","Field2":"الدورية ","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"2","Field2":"المفاجئة ","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"3","Field2":"الامن والسلامة","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}],"Response3":[{"Field1":"69","Field2":"د مصطفى","Field3":"4","Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"70","Field2":"د اسامة","Field3":"2","Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}]}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 3:48:28 PM
+Json Request 
+{"ServiceID":"100","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 3:48:28 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":[{"MenuID":1,"MenuTitle":"إستلام موقع","MenuImage":"","GroupID":4,"IsActive":true},{"MenuID":2,"MenuTitle":"تسجيل الزيارات للمشاريع","MenuImage":"","GroupID":4,"IsActive":true},{"MenuID":3,"MenuTitle":"زيارات الإستلام البنود","MenuImage":"","GroupID":4,"IsActive":true},{"MenuID":11,"MenuTitle":"مشاريع الامانة","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":11,"MenuTitle":"مشاريع الامانة","MenuImage":"","GroupID":11,"IsActive":true},{"MenuID":12,"MenuTitle":"المشاريع المستلمة","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":12,"MenuTitle":"المشاريع المستلمة","MenuImage":"","GroupID":11,"IsActive":true},{"MenuID":13,"MenuTitle":"المشاريع المتعثرة","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":13,"MenuTitle":"المشاريع المتعثرة","MenuImage":"","GroupID":11,"IsActive":true},{"MenuID":14,"MenuTitle":"تقرير الزيارات","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":14,"MenuTitle":"تقرير الزيارات","MenuImage":"","GroupID":11,"IsActive":true},{"MenuID":20,"MenuTitle":"عن التطبيق","MenuImage":"","GroupID":4,"IsActive":true},{"MenuID":20,"MenuTitle":"عن التطبيق","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":20,"MenuTitle":"عن التطبيق","MenuImage":"","GroupID":11,"IsActive":true},{"MenuID":21,"MenuTitle":"تسجيل خروج","MenuImage":"","GroupID":4,"IsActive":true},{"MenuID":21,"MenuTitle":"تسجيل خروج","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":21,"MenuTitle":"تسجيل خروج","MenuImage":"","GroupID":11,"IsActive":true}],"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 3:48:28 PM
+Json Request 
+{"ServiceID":"000","RequestInput1":"mustafa","RequestInput2":"1948","RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 3:48:28 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":{"Field1":"69","Field2":"mustafa","Field3":"د مصطفى","Field4":"2/6/2020 3:44:00 PM","Field5":"4","Field6":"10","Field7":"بلديه محافظه محائل عسير","Field8":"","Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 3:48:44 PM
+Json Request 
+{"ServiceID":"001","RequestInput1":"9080","RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 3:48:44 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":{"Field1":"15","Field2":"9080","Field3":"90-80","Field4":"مشروع مباني ","Field5":"بلديه محافظه محائل عسير","Field6":"2020-02-07","Field7":"2020-02-12","Field8":"وصف المرحلة","Field9":"10000","Field10":"د مصطفى","Field11":"مقاول 6","Field12":"علي بن عثمان","Field13":"اختبار ","Field14":"موقع المشروع ","Field15":"10","Field16":"18.323414613729266","Field17":"42.75577292902506","Field18":"False","Field19":"عقد1","Field20":"18.29603556438728","Field21":"42.75079474909342","Field22":null,"Field23":null},"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 3:49:10 PM
+Json Request 
+{"ServiceID":"005","RequestInput1":{"Field1":"1","Field2":"1","Field3":"1","Field4":"تم ","Field5":"","Field6":"","Field7":"15","Field8":"69","Field9":"69","Field10":"69","Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null},"RequestInput2":[],"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 3:49:10 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"تم استلام الموقع بنجاح","Response1":null,"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 4:03:22 PM
+Json Request 
+{"ServiceID":"003","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 4:03:22 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":[{"Field1":"1","Field2":"سبب","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"2","Field2":"سبب 2","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}],"Response2":[{"Field1":"1","Field2":"الدورية ","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"2","Field2":"المفاجئة ","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"3","Field2":"الامن والسلامة","Field3":null,"Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}],"Response3":[{"Field1":"69","Field2":"د مصطفى","Field3":"4","Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},{"Field1":"70","Field2":"د اسامة","Field3":"2","Field4":null,"Field5":null,"Field6":null,"Field7":null,"Field8":null,"Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}]}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 4:03:30 PM
+Json Request 
+{"ServiceID":"100","RequestInput1":null,"RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 4:03:30 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":[{"MenuID":1,"MenuTitle":"إستلام موقع","MenuImage":"","GroupID":4,"IsActive":true},{"MenuID":2,"MenuTitle":"تسجيل الزيارات للمشاريع","MenuImage":"","GroupID":4,"IsActive":true},{"MenuID":3,"MenuTitle":"زيارات الإستلام البنود","MenuImage":"","GroupID":4,"IsActive":true},{"MenuID":11,"MenuTitle":"مشاريع الامانة","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":11,"MenuTitle":"مشاريع الامانة","MenuImage":"","GroupID":11,"IsActive":true},{"MenuID":12,"MenuTitle":"المشاريع المستلمة","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":12,"MenuTitle":"المشاريع المستلمة","MenuImage":"","GroupID":11,"IsActive":true},{"MenuID":13,"MenuTitle":"المشاريع المتعثرة","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":13,"MenuTitle":"المشاريع المتعثرة","MenuImage":"","GroupID":11,"IsActive":true},{"MenuID":14,"MenuTitle":"تقرير الزيارات","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":14,"MenuTitle":"تقرير الزيارات","MenuImage":"","GroupID":11,"IsActive":true},{"MenuID":20,"MenuTitle":"عن التطبيق","MenuImage":"","GroupID":4,"IsActive":true},{"MenuID":20,"MenuTitle":"عن التطبيق","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":20,"MenuTitle":"عن التطبيق","MenuImage":"","GroupID":11,"IsActive":true},{"MenuID":21,"MenuTitle":"تسجيل خروج","MenuImage":"","GroupID":4,"IsActive":true},{"MenuID":21,"MenuTitle":"تسجيل خروج","MenuImage":"","GroupID":10,"IsActive":true},{"MenuID":21,"MenuTitle":"تسجيل خروج","MenuImage":"","GroupID":11,"IsActive":true}],"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 4:03:30 PM
+Json Request 
+{"ServiceID":"000","RequestInput1":"mustafa","RequestInput2":"1948","RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 4:03:31 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":{"Field1":"69","Field2":"mustafa","Field3":"د مصطفى","Field4":"2/6/2020 4:00:00 PM","Field5":"4","Field6":"10","Field7":"بلديه محافظه محائل عسير","Field8":"","Field9":null,"Field10":null,"Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null},"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 4:03:57 PM
+Json Request 
+{"ServiceID":"001","RequestInput1":"9080","RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 4:03:57 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":{"Field1":"15","Field2":"9080","Field3":"90-80","Field4":"مشروع مباني ","Field5":"بلديه محافظه محائل عسير","Field6":"2020-02-07","Field7":"2020-02-12","Field8":"وصف المرحلة","Field9":"10000","Field10":"د مصطفى","Field11":"مقاول 6","Field12":"علي بن عثمان","Field13":"اختبار ","Field14":"موقع المشروع ","Field15":"10","Field16":"18.323414613729266","Field17":"42.75577292902506","Field18":"True","Field19":"عقد1","Field20":"18.29603556438728","Field21":"42.75079474909342","Field22":null,"Field23":null},"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 4:05:11 PM
+Json Request 
+{"ServiceID":"004","RequestInput1":{"Field1":"2","Field2":"2","Field3":"69","Field4":"69","Field5":"test","Field6":"test","Field7":"test","Field8":"test","Field9":"test","Field10":"9080","Field11":"90-80","Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null},"RequestInput2":[],"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 4:05:11 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"تم ادخال البيانات بنجاح","Response1":null,"Response2":null,"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 4:07:58 PM
+Json Request 
+{"ServiceID":"002","RequestInput1":"9080","RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 4:07:58 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":{"Field1":"15","Field2":"9080","Field3":"90-80","Field4":"مشروع مباني ","Field5":"بلديه محافظه محائل عسير","Field6":"2020-02-07","Field7":"2020-02-12","Field8":"وصف المرحلة","Field9":"10000","Field10":"د مصطفى","Field11":"مقاول 6","Field12":"علي بن عثمان","Field13":"اختبار ","Field14":"موقع المشروع ","Field15":"10","Field16":"18.323414613729266","Field17":"42.75577292902506","Field18":"True","Field19":"عقد1","Field20":"18.29603556438728","Field21":"42.75079474909342","Field22":null,"Field23":null},"Response2":[{"Field1":"17","Field2":"بلمتر المكعب حفر لزوم الاساسات في أي نوع ...","Field3":"متر مكعب","Field4":"80","Field5":"1000.0000","Field6":"80000","Field7":"0","Field8":"80","Field9":"80000.0000","Field10":"بلمتر المكعب حفر لزوم الاساسات في أي نوع من التربه للوصول الي منسوب التاسيس حسب تقرير التربه المعتمد والفئه تشمل سند جوانب الحفر ونزح المياه الجوفيه اذا لزم الامر وكزلك نقل وترحيل ناتج الحفر خارج الموقع حسب تعليمات البلديه والمحافظهعلي الحفريات جافه وعمل الدعامات اللازمه لها حتي اللنتهاء من اعمال الردم والسعر محمل عليه تسويه قاع الحفر والدك اللازم للمواصفات وتعليمات المهندس المشرف","Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}],"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 4:08:35 PM
+Json Request 
+{"ServiceID":"002","RequestInput1":"9080","RequestInput2":null,"RequestInput3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
+Time : 2/6/2020 4:08:35 PM
+Json Response :
+{"ErrorNo":0,"ErrorMassege":"","Response1":{"Field1":"15","Field2":"9080","Field3":"90-80","Field4":"مشروع مباني ","Field5":"بلديه محافظه محائل عسير","Field6":"2020-02-07","Field7":"2020-02-12","Field8":"وصف المرحلة","Field9":"10000","Field10":"د مصطفى","Field11":"مقاول 6","Field12":"علي بن عثمان","Field13":"اختبار ","Field14":"موقع المشروع ","Field15":"10","Field16":"18.323414613729266","Field17":"42.75577292902506","Field18":"True","Field19":"عقد1","Field20":"18.29603556438728","Field21":"42.75079474909342","Field22":null,"Field23":null},"Response2":[{"Field1":"17","Field2":"بلمتر المكعب حفر لزوم الاساسات في أي نوع ...","Field3":"متر مكعب","Field4":"80","Field5":"1000.0000","Field6":"80000","Field7":"0","Field8":"80","Field9":"80000.0000","Field10":"بلمتر المكعب حفر لزوم الاساسات في أي نوع من التربه للوصول الي منسوب التاسيس حسب تقرير التربه المعتمد والفئه تشمل سند جوانب الحفر ونزح المياه الجوفيه اذا لزم الامر وكزلك نقل وترحيل ناتج الحفر خارج الموقع حسب تعليمات البلديه والمحافظهعلي الحفريات جافه وعمل الدعامات اللازمه لها حتي اللنتهاء من اعمال الردم والسعر محمل عليه تسويه قاع الحفر والدك اللازم للمواصفات وتعليمات المهندس المشرف","Field11":null,"Field12":null,"Field13":null,"Field14":null,"Field15":null,"Field16":null,"Field17":null,"Field18":null,"Field19":null,"Field20":null,"Field21":null,"Field22":null,"Field23":null}],"Response3":null}
+------------------------------------------------------------------------------------------------------------------------------------
+
